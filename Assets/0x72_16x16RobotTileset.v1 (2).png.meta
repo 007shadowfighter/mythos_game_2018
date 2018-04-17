@@ -1,0 +1,3140 @@
+fileFormatVersion: 2
+guid: 72b6d18acf3ff44468a4aa12e460440a
+timeCreated: 1522804386
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0x72_16x16RobotTileset.v1 (2)_0
+    21300002: 0x72_16x16RobotTileset.v1 (2)_1
+    21300004: 0x72_16x16RobotTileset.v1 (2)_2
+    21300006: 0x72_16x16RobotTileset.v1 (2)_3
+    21300008: 0x72_16x16RobotTileset.v1 (2)_4
+    21300010: 0x72_16x16RobotTileset.v1 (2)_5
+    21300012: 0x72_16x16RobotTileset.v1 (2)_6
+    21300014: 0x72_16x16RobotTileset.v1 (2)_7
+    21300016: 0x72_16x16RobotTileset.v1 (2)_8
+    21300018: 0x72_16x16RobotTileset.v1 (2)_9
+    21300020: 0x72_16x16RobotTileset.v1 (2)_10
+    21300022: 0x72_16x16RobotTileset.v1 (2)_11
+    21300024: 0x72_16x16RobotTileset.v1 (2)_12
+    21300026: 0x72_16x16RobotTileset.v1 (2)_13
+    21300028: 0x72_16x16RobotTileset.v1 (2)_14
+    21300030: 0x72_16x16RobotTileset.v1 (2)_15
+    21300032: 0x72_16x16RobotTileset.v1 (2)_16
+    21300034: 0x72_16x16RobotTileset.v1 (2)_17
+    21300036: 0x72_16x16RobotTileset.v1 (2)_18
+    21300038: 0x72_16x16RobotTileset.v1 (2)_19
+    21300040: 0x72_16x16RobotTileset.v1 (2)_20
+    21300042: 0x72_16x16RobotTileset.v1 (2)_21
+    21300044: 0x72_16x16RobotTileset.v1 (2)_22
+    21300046: 0x72_16x16RobotTileset.v1 (2)_23
+    21300048: 0x72_16x16RobotTileset.v1 (2)_24
+    21300050: 0x72_16x16RobotTileset.v1 (2)_25
+    21300052: 0x72_16x16RobotTileset.v1 (2)_26
+    21300054: 0x72_16x16RobotTileset.v1 (2)_27
+    21300056: 0x72_16x16RobotTileset.v1 (2)_28
+    21300058: 0x72_16x16RobotTileset.v1 (2)_29
+    21300060: 0x72_16x16RobotTileset.v1 (2)_30
+    21300062: 0x72_16x16RobotTileset.v1 (2)_31
+    21300064: 0x72_16x16RobotTileset.v1 (2)_32
+    21300066: 0x72_16x16RobotTileset.v1 (2)_33
+    21300068: 0x72_16x16RobotTileset.v1 (2)_34
+    21300070: 0x72_16x16RobotTileset.v1 (2)_35
+    21300072: 0x72_16x16RobotTileset.v1 (2)_36
+    21300074: 0x72_16x16RobotTileset.v1 (2)_37
+    21300076: 0x72_16x16RobotTileset.v1 (2)_38
+    21300078: 0x72_16x16RobotTileset.v1 (2)_39
+    21300080: 0x72_16x16RobotTileset.v1 (2)_40
+    21300082: 0x72_16x16RobotTileset.v1 (2)_41
+    21300084: 0x72_16x16RobotTileset.v1 (2)_42
+    21300086: 0x72_16x16RobotTileset.v1 (2)_43
+    21300088: 0x72_16x16RobotTileset.v1 (2)_44
+    21300090: 0x72_16x16RobotTileset.v1 (2)_45
+    21300092: 0x72_16x16RobotTileset.v1 (2)_46
+    21300094: 0x72_16x16RobotTileset.v1 (2)_47
+    21300096: 0x72_16x16RobotTileset.v1 (2)_48
+    21300098: 0x72_16x16RobotTileset.v1 (2)_49
+    21300100: 0x72_16x16RobotTileset.v1 (2)_50
+    21300102: 0x72_16x16RobotTileset.v1 (2)_51
+    21300104: 0x72_16x16RobotTileset.v1 (2)_52
+    21300106: 0x72_16x16RobotTileset.v1 (2)_53
+    21300108: 0x72_16x16RobotTileset.v1 (2)_54
+    21300110: 0x72_16x16RobotTileset.v1 (2)_55
+    21300112: 0x72_16x16RobotTileset.v1 (2)_56
+    21300114: 0x72_16x16RobotTileset.v1 (2)_57
+    21300116: 0x72_16x16RobotTileset.v1 (2)_58
+    21300118: 0x72_16x16RobotTileset.v1 (2)_59
+    21300120: 0x72_16x16RobotTileset.v1 (2)_60
+    21300122: 0x72_16x16RobotTileset.v1 (2)_61
+    21300124: 0x72_16x16RobotTileset.v1 (2)_62
+    21300126: 0x72_16x16RobotTileset.v1 (2)_63
+    21300128: 0x72_16x16RobotTileset.v1 (2)_64
+    21300130: 0x72_16x16RobotTileset.v1 (2)_65
+    21300132: 0x72_16x16RobotTileset.v1 (2)_66
+    21300134: 0x72_16x16RobotTileset.v1 (2)_67
+    21300136: 0x72_16x16RobotTileset.v1 (2)_68
+    21300138: 0x72_16x16RobotTileset.v1 (2)_69
+    21300140: 0x72_16x16RobotTileset.v1 (2)_70
+    21300142: 0x72_16x16RobotTileset.v1 (2)_71
+    21300144: 0x72_16x16RobotTileset.v1 (2)_72
+    21300146: 0x72_16x16RobotTileset.v1 (2)_73
+    21300148: 0x72_16x16RobotTileset.v1 (2)_74
+    21300150: 0x72_16x16RobotTileset.v1 (2)_75
+    21300152: 0x72_16x16RobotTileset.v1 (2)_76
+    21300154: 0x72_16x16RobotTileset.v1 (2)_77
+    21300156: 0x72_16x16RobotTileset.v1 (2)_78
+    21300158: 0x72_16x16RobotTileset.v1 (2)_79
+    21300160: 0x72_16x16RobotTileset.v1 (2)_80
+    21300162: 0x72_16x16RobotTileset.v1 (2)_81
+    21300164: 0x72_16x16RobotTileset.v1 (2)_82
+    21300166: 0x72_16x16RobotTileset.v1 (2)_83
+    21300168: 0x72_16x16RobotTileset.v1 (2)_84
+    21300170: 0x72_16x16RobotTileset.v1 (2)_85
+    21300172: 0x72_16x16RobotTileset.v1 (2)_86
+    21300174: 0x72_16x16RobotTileset.v1 (2)_87
+    21300176: 0x72_16x16RobotTileset.v1 (2)_88
+    21300178: 0x72_16x16RobotTileset.v1 (2)_89
+    21300180: 0x72_16x16RobotTileset.v1 (2)_90
+    21300182: 0x72_16x16RobotTileset.v1 (2)_91
+    21300184: 0x72_16x16RobotTileset.v1 (2)_92
+    21300186: 0x72_16x16RobotTileset.v1 (2)_93
+    21300188: 0x72_16x16RobotTileset.v1 (2)_94
+    21300190: 0x72_16x16RobotTileset.v1 (2)_95
+    21300192: 0x72_16x16RobotTileset.v1 (2)_96
+    21300194: 0x72_16x16RobotTileset.v1 (2)_97
+    21300196: 0x72_16x16RobotTileset.v1 (2)_98
+    21300198: 0x72_16x16RobotTileset.v1 (2)_99
+    21300200: 0x72_16x16RobotTileset.v1 (2)_100
+    21300202: 0x72_16x16RobotTileset.v1 (2)_101
+    21300204: 0x72_16x16RobotTileset.v1 (2)_102
+    21300206: 0x72_16x16RobotTileset.v1 (2)_103
+    21300208: 0x72_16x16RobotTileset.v1 (2)_104
+    21300210: 0x72_16x16RobotTileset.v1 (2)_105
+    21300212: 0x72_16x16RobotTileset.v1 (2)_106
+    21300214: 0x72_16x16RobotTileset.v1 (2)_107
+    21300216: 0x72_16x16RobotTileset.v1 (2)_108
+    21300218: 0x72_16x16RobotTileset.v1 (2)_109
+    21300220: 0x72_16x16RobotTileset.v1 (2)_110
+    21300222: 0x72_16x16RobotTileset.v1 (2)_111
+    21300224: 0x72_16x16RobotTileset.v1 (2)_112
+    21300226: 0x72_16x16RobotTileset.v1 (2)_113
+    21300228: 0x72_16x16RobotTileset.v1 (2)_114
+    21300230: 0x72_16x16RobotTileset.v1 (2)_115
+    21300232: 0x72_16x16RobotTileset.v1 (2)_116
+    21300234: 0x72_16x16RobotTileset.v1 (2)_117
+    21300236: 0x72_16x16RobotTileset.v1 (2)_118
+    21300238: 0x72_16x16RobotTileset.v1 (2)_119
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 496
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 480
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 464
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 464
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 464
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 464
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 448
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 432
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 400
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 400
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 400
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 400
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 400
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 400
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 400
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 400
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 368
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 368
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 368
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 368
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 368
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 368
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 368
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 347
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 345
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 320
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 336
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 336
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 336
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 336
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 336
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 328
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 288
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_71
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 304
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 304
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 272
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 272
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_89
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 272
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 272
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 272
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 272
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 272
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 272
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 272
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 240
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 240
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_101
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_104
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 240
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 240
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 240
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_110
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_114
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_115
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_116
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_118
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0x72_16x16RobotTileset.v1 (2)_119
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -31, y: -50}
+      - {x: -18, y: -50}
+      - {x: -16, y: -48}
+      - {x: -16, y: -44}
+      - {x: -16, y: -48}
+      - {x: -15, y: -50}
+      - {x: -2, y: -50}
+      - {x: 0, y: -48}
+      - {x: 0, y: -44}
+      - {x: 0, y: -50}
+      - {x: 18, y: -50}
+      - {x: 18, y: -21}
+      - {x: -48, y: -21}
+      - {x: -48, y: -50}
+      - {x: -33, y: -50}
+      - {x: -32, y: -48}
+      - {x: -32, y: -44}
+      - {x: -32, y: -48}
+    - - {x: 52, y: -50}
+      - {x: 111, y: -50}
+      - {x: 112, y: -48}
+      - {x: 112, y: -44}
+      - {x: 113, y: -48}
+      - {x: 117, y: -50}
+      - {x: 124, y: -50}
+      - {x: 126, y: -48}
+      - {x: 130, y: -49}
+      - {x: 132, y: -50}
+      - {x: 156, y: -50}
+      - {x: 162, y: -48}
+      - {x: 162, y: -21}
+      - {x: 32, y: -21}
+      - {x: 32, y: -50}
+      - {x: 47, y: -50}
+      - {x: 48, y: -48}
+      - {x: 48, y: -44}
+      - {x: 49, y: -48}
+    - - {x: -30, y: -16}
+      - {x: -30, y: 10}
+      - {x: -31, y: 11}
+      - {x: -47, y: 11}
+      - {x: -47, y: -14}
+      - {x: -44, y: -18}
+      - {x: -42, y: -18}
+      - {x: -40, y: -17}
+      - {x: -39, y: -14}
+      - {x: -37, y: -18}
+      - {x: -34, y: -18}
+    - - {x: -16, y: -18}
+      - {x: -14, y: -15}
+      - {x: -14, y: 8}
+      - {x: -15, y: 10}
+      - {x: -31, y: 10}
+      - {x: -31, y: -15}
+      - {x: -27, y: -18}
+      - {x: -24, y: -17}
+      - {x: -23, y: -14}
+      - {x: -19, y: -18}
+    - - {x: -14, y: 9}
+      - {x: -15, y: -8}
+      - {x: -15, y: -15}
+      - {x: -11, y: -18}
+      - {x: 2, y: -18}
+      - {x: 2, y: 9}
+    - - {x: 16, y: -18}
+      - {x: 18, y: -12}
+      - {x: 18, y: 9}
+      - {x: 16, y: 10}
+      - {x: 4, y: 10}
+      - {x: 1, y: 9}
+      - {x: 1, y: -15}
+      - {x: 5, y: -18}
+      - {x: 8, y: -17}
+      - {x: 9, y: -14}
+      - {x: 13, y: -18}
+    - - {x: 48, y: -18}
+      - {x: 50, y: -12}
+      - {x: 50, y: 10}
+      - {x: 48, y: 11}
+      - {x: 36, y: 11}
+      - {x: 33, y: 10}
+      - {x: 33, y: -15}
+      - {x: 37, y: -18}
+      - {x: 40, y: -17}
+      - {x: 41, y: -14}
+      - {x: 45, y: -18}
+    - - {x: 50, y: 10}
+      - {x: 50, y: -14}
+      - {x: 54, y: -18}
+      - {x: 63, y: -18}
+      - {x: 66, y: -11}
+      - {x: 66, y: 10}
+    - - {x: 66, y: -11}
+      - {x: 71, y: -18}
+      - {x: 74, y: -18}
+      - {x: 82, y: -10}
+      - {x: 82, y: 9}
+      - {x: 80, y: 10}
+      - {x: 66, y: 10}
+    - - {x: 82, y: 11}
+      - {x: 82, y: -15}
+      - {x: 86, y: -18}
+      - {x: 92, y: -18}
+      - {x: 97, y: -17}
+      - {x: 98, y: -9}
+      - {x: 98, y: 11}
+    - - {x: 112, y: -18}
+      - {x: 114, y: -12}
+      - {x: 114, y: 10}
+      - {x: 112, y: 11}
+      - {x: 100, y: 11}
+      - {x: 97, y: 10}
+      - {x: 97, y: -15}
+      - {x: 101, y: -18}
+      - {x: 104, y: -17}
+      - {x: 105, y: -14}
+      - {x: 109, y: -18}
+    - - {x: 114, y: 10}
+      - {x: 114, y: -14}
+      - {x: 118, y: -18}
+      - {x: 127, y: -18}
+      - {x: 130, y: -11}
+      - {x: 130, y: 10}
+    - - {x: 130, y: -11}
+      - {x: 135, y: -18}
+      - {x: 138, y: -18}
+      - {x: 146, y: -10}
+      - {x: 146, y: 9}
+      - {x: 144, y: 10}
+      - {x: 130, y: 10}
+    - - {x: 146, y: 11}
+      - {x: 146, y: -15}
+      - {x: 150, y: -18}
+      - {x: 156, y: -18}
+      - {x: 161, y: -17}
+      - {x: 162, y: -9}
+      - {x: 162, y: 11}
+    - - {x: 6, y: 68}
+      - {x: 1, y: 63}
+      - {x: 1, y: 54}
+      - {x: 0, y: 53}
+      - {x: 0, y: 50}
+      - {x: 2, y: 45}
+      - {x: 2, y: 24}
+      - {x: 1, y: 23}
+      - {x: 1, y: 18}
+      - {x: 1, y: 27}
+      - {x: 2, y: 28}
+      - {x: 2, y: 45}
+      - {x: -1, y: 52}
+      - {x: 1, y: 55}
+      - {x: 1, y: 62}
+      - {x: -1, y: 64}
+      - {x: -10, y: 66}
+      - {x: -11, y: 66}
+      - {x: -15, y: 62}
+      - {x: -15, y: 54}
+      - {x: -16, y: 53}
+      - {x: -16, y: 50}
+      - {x: -13, y: 46}
+      - {x: -14, y: 45}
+      - {x: -14, y: 24}
+      - {x: -15, y: 23}
+      - {x: -15, y: 18}
+      - {x: -15, y: 23}
+      - {x: -14, y: 29}
+      - {x: -14, y: 46}
+      - {x: -17, y: 50}
+      - {x: -17, y: 52}
+      - {x: -15, y: 56}
+      - {x: -15, y: 63}
+      - {x: -17, y: 65}
+      - {x: -26, y: 67}
+      - {x: -27, y: 67}
+      - {x: -31, y: 63}
+      - {x: -31, y: 54}
+      - {x: -32, y: 53}
+      - {x: -32, y: 50}
+      - {x: -30, y: 47}
+      - {x: -30, y: 24}
+      - {x: -31, y: 23}
+      - {x: -30, y: 29}
+      - {x: -30, y: 46}
+      - {x: -33, y: 50}
+      - {x: -31, y: 57}
+      - {x: -31, y: 64}
+      - {x: -32, y: 66}
+      - {x: -42, y: 68}
+      - {x: -44, y: 68}
+      - {x: -48, y: 66}
+      - {x: -48, y: 14}
+      - {x: 17, y: 14}
+      - {x: 18, y: 18}
+      - {x: 18, y: 65}
+      - {x: 7, y: 68}
+    - - {x: 32, y: 68}
+      - {x: 32, y: 14}
+      - {x: 50, y: 14}
+      - {x: 50, y: 61}
+      - {x: 48, y: 68}
+    - - {x: 51, y: 66}
+      - {x: 49, y: 65}
+      - {x: 49, y: 25}
+      - {x: 50, y: 14}
+      - {x: 63, y: 14}
+      - {x: 66, y: 20}
+      - {x: 66, y: 63}
+      - {x: 58, y: 66}
+    - - {x: 65, y: 67}
+      - {x: 65, y: 34}
+      - {x: 66, y: 14}
+      - {x: 77, y: 14}
+      - {x: 79, y: 15}
+      - {x: 82, y: 20}
+      - {x: 82, y: 65}
+      - {x: 79, y: 67}
+    - - {x: 95, y: 49}
+      - {x: 88, y: 49}
+      - {x: 95, y: 49}
+      - {x: 98, y: 61}
+      - {x: 98, y: 66}
+      - {x: 93, y: 68}
+      - {x: 83, y: 68}
+      - {x: 81, y: 67}
+      - {x: 81, y: 14}
+      - {x: 90, y: 14}
+      - {x: 98, y: 18}
+      - {x: 98, y: 46}
+    - - {x: 96, y: 68}
+      - {x: 96, y: 14}
+      - {x: 114, y: 14}
+      - {x: 114, y: 61}
+      - {x: 112, y: 68}
+    - - {x: 115, y: 66}
+      - {x: 113, y: 65}
+      - {x: 113, y: 25}
+      - {x: 114, y: 14}
+      - {x: 127, y: 14}
+      - {x: 130, y: 20}
+      - {x: 130, y: 63}
+      - {x: 122, y: 66}
+    - - {x: 129, y: 67}
+      - {x: 129, y: 34}
+      - {x: 130, y: 14}
+      - {x: 141, y: 14}
+      - {x: 143, y: 15}
+      - {x: 146, y: 20}
+      - {x: 146, y: 65}
+      - {x: 143, y: 67}
+    - - {x: 159, y: 49}
+      - {x: 152, y: 49}
+      - {x: 159, y: 49}
+      - {x: 162, y: 61}
+      - {x: 162, y: 66}
+      - {x: 157, y: 68}
+      - {x: 147, y: 68}
+      - {x: 145, y: 67}
+      - {x: 145, y: 14}
+      - {x: 154, y: 14}
+      - {x: 162, y: 18}
+      - {x: 162, y: 46}
+    - - {x: -177, y: 30}
+      - {x: -62, y: 30}
+      - {x: -62, y: 70}
+      - {x: -161, y: 98}
+      - {x: -173, y: 98}
+      - {x: -174, y: 95}
+      - {x: -174, y: 67}
+      - {x: -176, y: 60}
+      - {x: -175, y: 65}
+      - {x: -174, y: 84}
+      - {x: -186, y: 98}
+      - {x: -256, y: 98}
+      - {x: -256, y: 30}
+      - {x: -184, y: 30}
+      - {x: -179, y: 36}
+      - {x: -177, y: 40}
+      - {x: -177, y: 44}
+    - - {x: -162, y: 114}
+      - {x: -162, y: 50}
+      - {x: -142, y: 50}
+      - {x: -142, y: 110}
+      - {x: -148, y: 114}
+    - - {x: -144, y: 68}
+      - {x: -145, y: 67}
+      - {x: -145, y: 64}
+      - {x: -144, y: 62}
+      - {x: -96, y: 62}
+      - {x: -95, y: 64}
+      - {x: -95, y: 67}
+      - {x: -96, y: 68}
+    - - {x: -120, y: 91}
+      - {x: -143, y: 86}
+      - {x: -145, y: 81}
+      - {x: -145, y: 74}
+      - {x: -96, y: 70}
+      - {x: -62, y: 70}
+      - {x: -62, y: 91}
+    - - {x: 13, y: 105}
+      - {x: -47, y: 105}
+      - {x: -49, y: 104}
+      - {x: -49, y: 78}
+      - {x: 18, y: 78}
+      - {x: 18, y: 100}
+      - {x: 15, y: 104}
+    - - {x: 158, y: 78}
+      - {x: 162, y: 83}
+      - {x: 162, y: 105}
+      - {x: 161, y: 106}
+      - {x: 33, y: 106}
+      - {x: 31, y: 101}
+      - {x: 31, y: 84}
+      - {x: 32, y: 78}
+      - {x: 124, y: 78}
+      - {x: 127, y: 81}
+      - {x: 131, y: 78}
+    - - {x: -185, y: 96}
+      - {x: -185, y: 94}
+      - {x: -183, y: 92}
+      - {x: -182, y: 92}
+      - {x: -179, y: 95}
+      - {x: -180, y: 98}
+      - {x: -183, y: 98}
+    - - {x: -188, y: 93}
+      - {x: -185, y: 94}
+      - {x: -185, y: 97}
+      - {x: -188, y: 98}
+      - {x: -190, y: 96}
+    - - {x: -135, y: 114}
+      - {x: -135, y: 94}
+      - {x: -78, y: 94}
+      - {x: -78, y: 114}
+    - - {x: -94, y: 131}
+      - {x: -102, y: 138}
+      - {x: -106, y: 138}
+      - {x: -94, y: 141}
+      - {x: -94, y: 161}
+      - {x: -95, y: 164}
+      - {x: -94, y: 170}
+      - {x: -94, y: 194}
+      - {x: -96, y: 194}
+      - {x: -94, y: 199}
+      - {x: -94, y: 224}
+      - {x: -96, y: 226}
+      - {x: -94, y: 227}
+      - {x: -94, y: 256}
+      - {x: -256, y: 256}
+      - {x: -256, y: 110}
+      - {x: -120, y: 110}
+      - {x: -107, y: 112}
+      - {x: -94, y: 122}
+    - - {x: -234, y: 130}
+      - {x: -235, y: 128}
+      - {x: -236, y: 122}
+      - {x: -236, y: 110}
+      - {x: -227, y: 110}
+      - {x: -227, y: 130}
+    - - {x: -41, y: 140}
+      - {x: -49, y: 137}
+      - {x: -49, y: 110}
+      - {x: 18, y: 110}
+      - {x: 18, y: 138}
+      - {x: 15, y: 140}
+    - - {x: 67, y: 110}
+      - {x: 96, y: 110}
+      - {x: 98, y: 111}
+      - {x: 98, y: 134}
+      - {x: 90, y: 139}
+      - {x: 40, y: 139}
+      - {x: 31, y: 134}
+      - {x: 31, y: 110}
+      - {x: 64, y: 110}
+      - {x: 65, y: 112}
+      - {x: 65, y: 117}
+      - {x: 65, y: 112}
+    - - {x: -49, y: 171}
+      - {x: -49, y: 143}
+      - {x: -48, y: 142}
+      - {x: 17, y: 142}
+      - {x: 17, y: 171}
+    - - {x: 95, y: 144}
+      - {x: 97, y: 142}
+      - {x: 110, y: 142}
+      - {x: 112, y: 144}
+      - {x: 111, y: 150}
+      - {x: 113, y: 152}
+      - {x: 112, y: 154}
+      - {x: 112, y: 147}
+      - {x: 113, y: 144}
+      - {x: 119, y: 142}
+      - {x: 125, y: 142}
+      - {x: 127, y: 144}
+      - {x: 130, y: 142}
+      - {x: 157, y: 142}
+      - {x: 161, y: 145}
+      - {x: 161, y: 172}
+      - {x: 33, y: 172}
+      - {x: 31, y: 170}
+      - {x: 31, y: 142}
+      - {x: 92, y: 142}
+      - {x: 95, y: 145}
+      - {x: 96, y: 148}
+      - {x: 96, y: 146}
+    - - {x: -84, y: 189}
+      - {x: -93, y: 189}
+      - {x: -94, y: 180}
+      - {x: -94, y: 175}
+      - {x: -92, y: 174}
+      - {x: -84, y: 174}
+      - {x: -82, y: 176}
+      - {x: -82, y: 188}
+    - - {x: 16, y: 203}
+      - {x: -49, y: 203}
+      - {x: -50, y: 201}
+      - {x: -50, y: 178}
+      - {x: -48, y: 174}
+      - {x: 14, y: 174}
+      - {x: 17, y: 176}
+      - {x: 18, y: 190}
+      - {x: 18, y: 201}
+    - - {x: 82, y: 174}
+      - {x: 161, y: 174}
+      - {x: 162, y: 179}
+      - {x: 162, y: 204}
+      - {x: 31, y: 204}
+      - {x: 30, y: 201}
+      - {x: 30, y: 178}
+      - {x: 32, y: 174}
+      - {x: 76, y: 174}
+      - {x: 81, y: 182}
+      - {x: 81, y: 185}
+      - {x: 81, y: 177}
+    - - {x: -86, y: 206}
+      - {x: -93, y: 206}
+      - {x: -94, y: 205}
+      - {x: -94, y: 190}
+      - {x: -84, y: 190}
+      - {x: -82, y: 192}
+      - {x: -82, y: 205}
+    - - {x: -85, y: 238}
+      - {x: -93, y: 238}
+      - {x: -94, y: 237}
+      - {x: -94, y: 206}
+      - {x: -83, y: 206}
+      - {x: -82, y: 208}
+      - {x: -82, y: 237}
+    - - {x: 18, y: 206}
+      - {x: 18, y: 232}
+      - {x: 17, y: 236}
+      - {x: -46, y: 236}
+      - {x: -48, y: 233}
+      - {x: -48, y: 206}
+      - {x: -17, y: 206}
+      - {x: -16, y: 208}
+      - {x: -16, y: 206}
+    - - {x: 32, y: 237}
+      - {x: 32, y: 206}
+      - {x: 162, y: 206}
+      - {x: 162, y: 237}
+    - - {x: -91, y: 255}
+      - {x: -93, y: 251}
+      - {x: -94, y: 240}
+      - {x: -92, y: 238}
+      - {x: -84, y: 238}
+      - {x: -82, y: 240}
+      - {x: -83, y: 251}
+      - {x: -86, y: 255}
+    - - {x: -20, y: 250}
+      - {x: -50, y: 250}
+      - {x: -50, y: 240}
+      - {x: -49, y: 238}
+      - {x: 15, y: 238}
+      - {x: 18, y: 239}
+      - {x: 18, y: 244}
+    - - {x: 30, y: 250}
+      - {x: 30, y: 238}
+      - {x: 162, y: 238}
+      - {x: 162, y: 245}
+      - {x: 95, y: 250}
+    physicsShape:
+    - - {x: -31, y: -50}
+      - {x: -18, y: -50}
+      - {x: -16, y: -48}
+      - {x: -16, y: -44}
+      - {x: -16, y: -48}
+      - {x: -15, y: -50}
+      - {x: -2, y: -50}
+      - {x: 0, y: -48}
+      - {x: 0, y: -44}
+      - {x: 0, y: -50}
+      - {x: 18, y: -50}
+      - {x: 18, y: -26}
+      - {x: 7, y: -21}
+      - {x: -46, y: -21}
+      - {x: -48, y: -25}
+      - {x: -48, y: -50}
+      - {x: -33, y: -50}
+      - {x: -32, y: -48}
+      - {x: -32, y: -44}
+      - {x: -32, y: -48}
+    - - {x: 53, y: -50}
+      - {x: 60, y: -50}
+      - {x: 62, y: -48}
+      - {x: 66, y: -49}
+      - {x: 68, y: -50}
+      - {x: 111, y: -50}
+      - {x: 112, y: -48}
+      - {x: 112, y: -44}
+      - {x: 113, y: -48}
+      - {x: 117, y: -50}
+      - {x: 124, y: -50}
+      - {x: 126, y: -48}
+      - {x: 130, y: -49}
+      - {x: 132, y: -50}
+      - {x: 140, y: -50}
+      - {x: 142, y: -46}
+      - {x: 147, y: -50}
+      - {x: 154, y: -50}
+      - {x: 160, y: -46}
+      - {x: 162, y: -39}
+      - {x: 162, y: -25}
+      - {x: 151, y: -21}
+      - {x: 149, y: -21}
+      - {x: 143, y: -25}
+      - {x: 134, y: -22}
+      - {x: 118, y: -22}
+      - {x: 109, y: -21}
+      - {x: 100, y: -21}
+      - {x: 95, y: -24}
+      - {x: 86, y: -21}
+      - {x: 79, y: -25}
+      - {x: 70, y: -22}
+      - {x: 54, y: -22}
+      - {x: 45, y: -21}
+      - {x: 37, y: -21}
+      - {x: 32, y: -26}
+      - {x: 32, y: -50}
+      - {x: 47, y: -50}
+      - {x: 48, y: -48}
+      - {x: 48, y: -44}
+      - {x: 49, y: -48}
+    - - {x: -30, y: -16}
+      - {x: -30, y: 10}
+      - {x: -31, y: 11}
+      - {x: -47, y: 11}
+      - {x: -47, y: -14}
+      - {x: -44, y: -18}
+      - {x: -42, y: -18}
+      - {x: -40, y: -17}
+      - {x: -39, y: -14}
+      - {x: -37, y: -18}
+      - {x: -34, y: -18}
+    - - {x: -16, y: -18}
+      - {x: -14, y: -15}
+      - {x: -14, y: 8}
+      - {x: -15, y: 10}
+      - {x: -31, y: 10}
+      - {x: -31, y: -15}
+      - {x: -27, y: -18}
+      - {x: -24, y: -17}
+      - {x: -23, y: -14}
+      - {x: -19, y: -18}
+    - - {x: -14, y: 9}
+      - {x: -15, y: -8}
+      - {x: -15, y: -15}
+      - {x: -11, y: -18}
+      - {x: 2, y: -18}
+      - {x: 2, y: 9}
+    - - {x: 16, y: -18}
+      - {x: 18, y: -12}
+      - {x: 18, y: 9}
+      - {x: 16, y: 10}
+      - {x: 4, y: 10}
+      - {x: 1, y: 9}
+      - {x: 1, y: -15}
+      - {x: 5, y: -18}
+      - {x: 8, y: -17}
+      - {x: 9, y: -14}
+      - {x: 13, y: -18}
+    - - {x: 48, y: -18}
+      - {x: 50, y: -12}
+      - {x: 50, y: 10}
+      - {x: 48, y: 11}
+      - {x: 36, y: 11}
+      - {x: 33, y: 10}
+      - {x: 33, y: -15}
+      - {x: 37, y: -18}
+      - {x: 40, y: -17}
+      - {x: 41, y: -14}
+      - {x: 45, y: -18}
+    - - {x: 50, y: 10}
+      - {x: 50, y: -14}
+      - {x: 54, y: -18}
+      - {x: 63, y: -18}
+      - {x: 66, y: -11}
+      - {x: 66, y: 10}
+    - - {x: 66, y: -11}
+      - {x: 71, y: -18}
+      - {x: 74, y: -18}
+      - {x: 82, y: -10}
+      - {x: 82, y: 9}
+      - {x: 80, y: 10}
+      - {x: 66, y: 10}
+    - - {x: 82, y: 11}
+      - {x: 82, y: -15}
+      - {x: 86, y: -18}
+      - {x: 92, y: -18}
+      - {x: 97, y: -17}
+      - {x: 98, y: -9}
+      - {x: 98, y: 11}
+    - - {x: 112, y: -18}
+      - {x: 114, y: -12}
+      - {x: 114, y: 10}
+      - {x: 112, y: 11}
+      - {x: 100, y: 11}
+      - {x: 97, y: 10}
+      - {x: 97, y: -15}
+      - {x: 101, y: -18}
+      - {x: 104, y: -17}
+      - {x: 105, y: -14}
+      - {x: 109, y: -18}
+    - - {x: 114, y: 10}
+      - {x: 114, y: -14}
+      - {x: 118, y: -18}
+      - {x: 127, y: -18}
+      - {x: 130, y: -11}
+      - {x: 130, y: 10}
+    - - {x: 130, y: -11}
+      - {x: 135, y: -18}
+      - {x: 138, y: -18}
+      - {x: 146, y: -10}
+      - {x: 146, y: 9}
+      - {x: 144, y: 10}
+      - {x: 130, y: 10}
+    - - {x: 146, y: 11}
+      - {x: 146, y: -15}
+      - {x: 150, y: -18}
+      - {x: 156, y: -18}
+      - {x: 161, y: -17}
+      - {x: 162, y: -9}
+      - {x: 162, y: 11}
+    - - {x: 6, y: 68}
+      - {x: 1, y: 63}
+      - {x: 1, y: 54}
+      - {x: 0, y: 53}
+      - {x: 0, y: 50}
+      - {x: 2, y: 45}
+      - {x: 2, y: 24}
+      - {x: 1, y: 23}
+      - {x: 1, y: 18}
+      - {x: 1, y: 27}
+      - {x: 2, y: 28}
+      - {x: 2, y: 45}
+      - {x: -1, y: 52}
+      - {x: 1, y: 55}
+      - {x: 1, y: 62}
+      - {x: -1, y: 64}
+      - {x: -10, y: 66}
+      - {x: -11, y: 66}
+      - {x: -15, y: 62}
+      - {x: -15, y: 54}
+      - {x: -16, y: 53}
+      - {x: -16, y: 50}
+      - {x: -13, y: 46}
+      - {x: -14, y: 45}
+      - {x: -14, y: 24}
+      - {x: -15, y: 23}
+      - {x: -15, y: 18}
+      - {x: -15, y: 23}
+      - {x: -14, y: 29}
+      - {x: -14, y: 46}
+      - {x: -17, y: 50}
+      - {x: -17, y: 52}
+      - {x: -15, y: 56}
+      - {x: -15, y: 63}
+      - {x: -17, y: 65}
+      - {x: -26, y: 67}
+      - {x: -27, y: 67}
+      - {x: -31, y: 63}
+      - {x: -31, y: 54}
+      - {x: -32, y: 53}
+      - {x: -32, y: 50}
+      - {x: -30, y: 47}
+      - {x: -30, y: 24}
+      - {x: -31, y: 23}
+      - {x: -30, y: 29}
+      - {x: -30, y: 46}
+      - {x: -33, y: 50}
+      - {x: -31, y: 57}
+      - {x: -31, y: 64}
+      - {x: -32, y: 66}
+      - {x: -42, y: 68}
+      - {x: -44, y: 68}
+      - {x: -48, y: 66}
+      - {x: -48, y: 14}
+      - {x: 17, y: 14}
+      - {x: 18, y: 18}
+      - {x: 18, y: 65}
+      - {x: 7, y: 68}
+    - - {x: 32, y: 68}
+      - {x: 32, y: 14}
+      - {x: 50, y: 14}
+      - {x: 50, y: 61}
+      - {x: 48, y: 68}
+    - - {x: 66, y: 58}
+      - {x: 66, y: 63}
+      - {x: 58, y: 66}
+      - {x: 52, y: 66}
+      - {x: 49, y: 64}
+      - {x: 49, y: 30}
+      - {x: 50, y: 15}
+      - {x: 53, y: 14}
+      - {x: 63, y: 14}
+      - {x: 66, y: 20}
+      - {x: 66, y: 44}
+      - {x: 65, y: 48}
+    - - {x: 82, y: 60}
+      - {x: 80, y: 66}
+      - {x: 70, y: 67}
+      - {x: 68, y: 67}
+      - {x: 65, y: 65}
+      - {x: 65, y: 34}
+      - {x: 66, y: 14}
+      - {x: 77, y: 14}
+      - {x: 79, y: 15}
+      - {x: 82, y: 25}
+    - - {x: 95, y: 49}
+      - {x: 88, y: 49}
+      - {x: 95, y: 49}
+      - {x: 98, y: 61}
+      - {x: 98, y: 66}
+      - {x: 93, y: 68}
+      - {x: 83, y: 68}
+      - {x: 81, y: 67}
+      - {x: 81, y: 14}
+      - {x: 90, y: 14}
+      - {x: 98, y: 18}
+      - {x: 98, y: 46}
+    - - {x: 96, y: 68}
+      - {x: 96, y: 14}
+      - {x: 114, y: 14}
+      - {x: 114, y: 61}
+      - {x: 112, y: 68}
+    - - {x: 130, y: 58}
+      - {x: 130, y: 63}
+      - {x: 122, y: 66}
+      - {x: 116, y: 66}
+      - {x: 113, y: 64}
+      - {x: 113, y: 30}
+      - {x: 114, y: 15}
+      - {x: 117, y: 14}
+      - {x: 127, y: 14}
+      - {x: 130, y: 20}
+      - {x: 130, y: 44}
+      - {x: 129, y: 48}
+    - - {x: 146, y: 60}
+      - {x: 144, y: 66}
+      - {x: 134, y: 67}
+      - {x: 132, y: 67}
+      - {x: 129, y: 65}
+      - {x: 129, y: 34}
+      - {x: 130, y: 14}
+      - {x: 141, y: 14}
+      - {x: 143, y: 15}
+      - {x: 146, y: 25}
+    - - {x: 159, y: 49}
+      - {x: 152, y: 49}
+      - {x: 159, y: 49}
+      - {x: 162, y: 61}
+      - {x: 162, y: 66}
+      - {x: 157, y: 68}
+      - {x: 147, y: 68}
+      - {x: 145, y: 67}
+      - {x: 145, y: 14}
+      - {x: 154, y: 14}
+      - {x: 162, y: 18}
+      - {x: 162, y: 46}
+    - - {x: -177, y: 30}
+      - {x: -65, y: 30}
+      - {x: -62, y: 36}
+      - {x: -62, y: 56}
+      - {x: -64, y: 58}
+      - {x: -97, y: 59}
+      - {x: -99, y: 52}
+      - {x: -144, y: 52}
+      - {x: -156, y: 51}
+      - {x: -160, y: 55}
+      - {x: -161, y: 67}
+      - {x: -162, y: 97}
+      - {x: -163, y: 98}
+      - {x: -172, y: 98}
+      - {x: -174, y: 95}
+      - {x: -174, y: 67}
+      - {x: -176, y: 60}
+      - {x: -185, y: 63}
+      - {x: -177, y: 63}
+      - {x: -175, y: 65}
+      - {x: -175, y: 79}
+      - {x: -176, y: 82}
+      - {x: -226, y: 84}
+      - {x: -236, y: 82}
+      - {x: -224, y: 93}
+      - {x: -221, y: 89}
+      - {x: -198, y: 86}
+      - {x: -194, y: 94}
+      - {x: -196, y: 98}
+      - {x: -234, y: 98}
+      - {x: -246, y: 93}
+      - {x: -249, y: 98}
+      - {x: -256, y: 98}
+      - {x: -256, y: 31}
+      - {x: -255, y: 31}
+      - {x: -234, y: 30}
+      - {x: -207, y: 30}
+      - {x: -204, y: 35}
+      - {x: -196, y: 30}
+      - {x: -188, y: 30}
+      - {x: -179, y: 36}
+      - {x: -177, y: 40}
+      - {x: -177, y: 44}
+    - - {x: -251, y: 59}
+      - {x: -229, y: 59}
+      - {x: -229, y: 37}
+      - {x: -251, y: 37}
+    - - {x: -219, y: 43}
+      - {x: -213, y: 43}
+      - {x: -213, y: 37}
+      - {x: -219, y: 37}
+    - - {x: -162, y: 114}
+      - {x: -162, y: 50}
+      - {x: -147, y: 50}
+      - {x: -142, y: 51}
+      - {x: -142, y: 106}
+      - {x: -151, y: 114}
+    - - {x: -219, y: 59}
+      - {x: -213, y: 59}
+      - {x: -213, y: 53}
+      - {x: -219, y: 53}
+    - - {x: -206, y: 63}
+      - {x: -208, y: 64}
+      - {x: -207, y: 62}
+      - {x: -198, y: 62}
+      - {x: -199, y: 62}
+      - {x: -203, y: 60}
+      - {x: -208, y: 55}
+      - {x: -207, y: 53}
+      - {x: -206, y: 54}
+    - - {x: -144, y: 68}
+      - {x: -145, y: 67}
+      - {x: -145, y: 64}
+      - {x: -144, y: 62}
+      - {x: -96, y: 62}
+      - {x: -95, y: 64}
+      - {x: -95, y: 67}
+      - {x: -96, y: 68}
+    - - {x: -184, y: 75}
+      - {x: -181, y: 72}
+      - {x: -184, y: 69}
+      - {x: -185, y: 70}
+    - - {x: -217, y: 73}
+      - {x: -215, y: 73}
+      - {x: -215, y: 71}
+      - {x: -217, y: 71}
+    - - {x: -200, y: 75}
+      - {x: -200, y: 74}
+      - {x: -203, y: 71}
+    - - {x: -120, y: 91}
+      - {x: -143, y: 86}
+      - {x: -145, y: 81}
+      - {x: -145, y: 74}
+      - {x: -96, y: 70}
+      - {x: -62, y: 70}
+      - {x: -62, y: 91}
+    - - {x: 17, y: 80}
+      - {x: 18, y: 86}
+      - {x: 18, y: 100}
+      - {x: 15, y: 104}
+      - {x: 7, y: 105}
+      - {x: -3, y: 105}
+      - {x: -13, y: 104}
+      - {x: -14, y: 103}
+      - {x: -23, y: 105}
+      - {x: -44, y: 105}
+      - {x: -47, y: 102}
+      - {x: -49, y: 99}
+      - {x: -49, y: 80}
+      - {x: -48, y: 78}
+      - {x: 13, y: 78}
+    - - {x: 74, y: 78}
+      - {x: 79, y: 80}
+      - {x: 84, y: 78}
+      - {x: 124, y: 78}
+      - {x: 127, y: 81}
+      - {x: 131, y: 78}
+      - {x: 138, y: 78}
+      - {x: 143, y: 80}
+      - {x: 145, y: 80}
+      - {x: 149, y: 78}
+      - {x: 155, y: 78}
+      - {x: 160, y: 83}
+      - {x: 162, y: 87}
+      - {x: 162, y: 104}
+      - {x: 158, y: 106}
+      - {x: 125, y: 106}
+      - {x: 115, y: 105}
+      - {x: 111, y: 106}
+      - {x: 61, y: 106}
+      - {x: 51, y: 105}
+      - {x: 50, y: 104}
+      - {x: 41, y: 106}
+      - {x: 34, y: 106}
+      - {x: 31, y: 100}
+      - {x: 31, y: 90}
+      - {x: 32, y: 81}
+      - {x: 33, y: 78}
+      - {x: 60, y: 78}
+      - {x: 63, y: 81}
+      - {x: 67, y: 78}
+    - - {x: -185, y: 96}
+      - {x: -185, y: 94}
+      - {x: -183, y: 92}
+      - {x: -182, y: 92}
+      - {x: -179, y: 95}
+      - {x: -180, y: 98}
+      - {x: -183, y: 98}
+    - - {x: -188, y: 93}
+      - {x: -185, y: 94}
+      - {x: -185, y: 97}
+      - {x: -188, y: 98}
+      - {x: -190, y: 96}
+    - - {x: -78, y: 106}
+      - {x: -78, y: 114}
+      - {x: -135, y: 114}
+      - {x: -135, y: 94}
+      - {x: -128, y: 94}
+      - {x: -115, y: 105}
+      - {x: -87, y: 105}
+      - {x: -79, y: 102}
+    - - {x: -218, y: 110}
+      - {x: -213, y: 110}
+      - {x: -211, y: 112}
+      - {x: -209, y: 110}
+      - {x: -197, y: 110}
+      - {x: -193, y: 113}
+      - {x: -190, y: 111}
+      - {x: -186, y: 110}
+      - {x: -179, y: 110}
+      - {x: -178, y: 111}
+      - {x: -170, y: 110}
+      - {x: -165, y: 110}
+      - {x: -163, y: 112}
+      - {x: -163, y: 126}
+      - {x: -133, y: 113}
+      - {x: -107, y: 112}
+      - {x: -94, y: 122}
+      - {x: -94, y: 131}
+      - {x: -102, y: 138}
+      - {x: -106, y: 138}
+      - {x: -108, y: 131}
+      - {x: -141, y: 142}
+      - {x: -94, y: 142}
+      - {x: -94, y: 161}
+      - {x: -95, y: 164}
+      - {x: -95, y: 172}
+      - {x: -94, y: 176}
+      - {x: -94, y: 194}
+      - {x: -96, y: 194}
+      - {x: -94, y: 199}
+      - {x: -94, y: 210}
+      - {x: -134, y: 214}
+      - {x: -94, y: 214}
+      - {x: -94, y: 224}
+      - {x: -96, y: 226}
+      - {x: -94, y: 227}
+      - {x: -94, y: 241}
+      - {x: -95, y: 244}
+      - {x: -113, y: 243}
+      - {x: -127, y: 237}
+      - {x: -113, y: 246}
+      - {x: -96, y: 246}
+      - {x: -94, y: 248}
+      - {x: -94, y: 256}
+      - {x: -256, y: 256}
+      - {x: -256, y: 110}
+      - {x: -244, y: 110}
+      - {x: -242, y: 114}
+      - {x: -219, y: 124}
+      - {x: -220, y: 115}
+    - - {x: -234, y: 130}
+      - {x: -235, y: 128}
+      - {x: -236, y: 122}
+      - {x: -236, y: 110}
+      - {x: -227, y: 110}
+      - {x: -227, y: 130}
+    - - {x: 9, y: 140}
+      - {x: -31, y: 140}
+      - {x: -46, y: 136}
+      - {x: -49, y: 133}
+      - {x: -49, y: 110}
+      - {x: 17, y: 110}
+      - {x: 18, y: 112}
+      - {x: 18, y: 134}
+    - - {x: 67, y: 110}
+      - {x: 95, y: 110}
+      - {x: 98, y: 115}
+      - {x: 98, y: 134}
+      - {x: 90, y: 139}
+      - {x: 79, y: 139}
+      - {x: 73, y: 138}
+      - {x: 57, y: 138}
+      - {x: 44, y: 139}
+      - {x: 40, y: 139}
+      - {x: 35, y: 136}
+      - {x: 31, y: 134}
+      - {x: 31, y: 110}
+      - {x: 64, y: 110}
+      - {x: 65, y: 112}
+      - {x: 65, y: 117}
+      - {x: 65, y: 112}
+    - - {x: -31, y: 122}
+      - {x: -31, y: 121}
+      - {x: -32, y: 121}
+    - - {x: -16, y: 122}
+      - {x: -15, y: 123}
+      - {x: -15, y: 121}
+    - - {x: 0, y: 123}
+      - {x: 1, y: 122}
+      - {x: 1, y: 121}
+      - {x: 0, y: 122}
+    - - {x: 16, y: 171}
+      - {x: -49, y: 171}
+      - {x: -49, y: 143}
+      - {x: -48, y: 142}
+      - {x: 15, y: 142}
+      - {x: 16, y: 144}
+      - {x: 17, y: 147}
+      - {x: 17, y: 168}
+    - - {x: 92, y: 142}
+      - {x: 95, y: 145}
+      - {x: 96, y: 148}
+      - {x: 96, y: 146}
+      - {x: 95, y: 144}
+      - {x: 97, y: 142}
+      - {x: 110, y: 142}
+      - {x: 112, y: 144}
+      - {x: 111, y: 150}
+      - {x: 113, y: 152}
+      - {x: 112, y: 154}
+      - {x: 112, y: 147}
+      - {x: 113, y: 144}
+      - {x: 119, y: 142}
+      - {x: 125, y: 142}
+      - {x: 127, y: 144}
+      - {x: 129, y: 151}
+      - {x: 131, y: 142}
+      - {x: 157, y: 142}
+      - {x: 161, y: 147}
+      - {x: 161, y: 171}
+      - {x: 160, y: 172}
+      - {x: 93, y: 172}
+      - {x: 66, y: 170}
+      - {x: 34, y: 171}
+      - {x: 31, y: 170}
+      - {x: 31, y: 142}
+      - {x: 62, y: 142}
+      - {x: 65, y: 150}
+      - {x: 67, y: 142}
+    - - {x: -30, y: 153}
+      - {x: -31, y: 156}
+      - {x: -34, y: 151}
+      - {x: -33, y: 147}
+      - {x: -31, y: 147}
+    - - {x: -16, y: 155}
+      - {x: -17, y: 151}
+      - {x: -17, y: 147}
+      - {x: -16, y: 147}
+    - - {x: 1, y: 154}
+      - {x: -1, y: 152}
+      - {x: -1, y: 147}
+      - {x: 0, y: 146}
+    - - {x: -234, y: 158}
+      - {x: -227, y: 157}
+      - {x: -226, y: 150}
+      - {x: -226, y: 151}
+    - - {x: -84, y: 189}
+      - {x: -93, y: 189}
+      - {x: -94, y: 180}
+      - {x: -94, y: 175}
+      - {x: -92, y: 174}
+      - {x: -84, y: 174}
+      - {x: -82, y: 176}
+      - {x: -82, y: 188}
+    - - {x: 17, y: 176}
+      - {x: 18, y: 190}
+      - {x: 18, y: 201}
+      - {x: 16, y: 203}
+      - {x: -15, y: 203}
+      - {x: -17, y: 201}
+      - {x: -35, y: 203}
+      - {x: -47, y: 203}
+      - {x: -50, y: 199}
+      - {x: -50, y: 184}
+      - {x: -48, y: 177}
+      - {x: -47, y: 174}
+      - {x: 14, y: 174}
+    - - {x: 74, y: 174}
+      - {x: 78, y: 178}
+      - {x: 81, y: 182}
+      - {x: 81, y: 185}
+      - {x: 81, y: 177}
+      - {x: 82, y: 174}
+      - {x: 124, y: 174}
+      - {x: 131, y: 179}
+      - {x: 133, y: 174}
+      - {x: 150, y: 174}
+      - {x: 157, y: 175}
+      - {x: 162, y: 177}
+      - {x: 162, y: 202}
+      - {x: 159, y: 203}
+      - {x: 146, y: 204}
+      - {x: 114, y: 202}
+      - {x: 88, y: 204}
+      - {x: 65, y: 204}
+      - {x: 50, y: 202}
+      - {x: 36, y: 204}
+      - {x: 33, y: 204}
+      - {x: 30, y: 199}
+      - {x: 30, y: 184}
+      - {x: 32, y: 177}
+      - {x: 33, y: 174}
+      - {x: 60, y: 174}
+      - {x: 67, y: 179}
+      - {x: 69, y: 174}
+    - - {x: -86, y: 206}
+      - {x: -93, y: 206}
+      - {x: -94, y: 205}
+      - {x: -94, y: 190}
+      - {x: -84, y: 190}
+      - {x: -82, y: 192}
+      - {x: -82, y: 205}
+    - - {x: -85, y: 238}
+      - {x: -93, y: 238}
+      - {x: -94, y: 237}
+      - {x: -94, y: 206}
+      - {x: -83, y: 206}
+      - {x: -82, y: 208}
+      - {x: -82, y: 237}
+    - - {x: -16, y: 208}
+      - {x: -15, y: 216}
+      - {x: -11, y: 206}
+      - {x: 16, y: 206}
+      - {x: 18, y: 214}
+      - {x: 18, y: 232}
+      - {x: 15, y: 235}
+      - {x: -10, y: 235}
+      - {x: -33, y: 236}
+      - {x: -43, y: 236}
+      - {x: -47, y: 234}
+      - {x: -48, y: 231}
+      - {x: -48, y: 216}
+      - {x: -45, y: 209}
+      - {x: -43, y: 206}
+      - {x: -17, y: 206}
+    - - {x: 66, y: 206}
+      - {x: 68, y: 208}
+      - {x: 74, y: 206}
+      - {x: 77, y: 206}
+      - {x: 82, y: 216}
+      - {x: 84, y: 209}
+      - {x: 89, y: 206}
+      - {x: 94, y: 206}
+      - {x: 98, y: 211}
+      - {x: 101, y: 206}
+      - {x: 111, y: 206}
+      - {x: 112, y: 208}
+      - {x: 116, y: 209}
+      - {x: 121, y: 206}
+      - {x: 130, y: 206}
+      - {x: 132, y: 208}
+      - {x: 138, y: 206}
+      - {x: 141, y: 206}
+      - {x: 146, y: 216}
+      - {x: 148, y: 209}
+      - {x: 153, y: 206}
+      - {x: 156, y: 207}
+      - {x: 160, y: 210}
+      - {x: 162, y: 224}
+      - {x: 162, y: 234}
+      - {x: 160, y: 237}
+      - {x: 137, y: 237}
+      - {x: 119, y: 236}
+      - {x: 104, y: 237}
+      - {x: 80, y: 237}
+      - {x: 55, y: 235}
+      - {x: 49, y: 237}
+      - {x: 42, y: 237}
+      - {x: 32, y: 236}
+      - {x: 32, y: 218}
+      - {x: 35, y: 209}
+      - {x: 37, y: 206}
+      - {x: 48, y: 206}
+      - {x: 49, y: 216}
+      - {x: 52, y: 209}
+      - {x: 57, y: 206}
+    - - {x: -91, y: 255}
+      - {x: -93, y: 251}
+      - {x: -94, y: 240}
+      - {x: -92, y: 238}
+      - {x: -84, y: 238}
+      - {x: -82, y: 240}
+      - {x: -83, y: 251}
+      - {x: -86, y: 255}
+    - - {x: -20, y: 250}
+      - {x: -50, y: 250}
+      - {x: -50, y: 240}
+      - {x: -49, y: 238}
+      - {x: 15, y: 238}
+      - {x: 18, y: 239}
+      - {x: 18, y: 244}
+    - - {x: 30, y: 250}
+      - {x: 30, y: 238}
+      - {x: 162, y: 238}
+      - {x: 162, y: 245}
+      - {x: 95, y: 250}
+    - - {x: -236, y: 250}
+      - {x: -220, y: 250}
+      - {x: -211, y: 242}
+      - {x: -237, y: 243}
+    - - {x: -197, y: 249}
+      - {x: -147, y: 242}
+      - {x: -205, y: 242}
+      - {x: -204, y: 242}
+    - - {x: -146, y: 251}
+      - {x: -143, y: 250}
+      - {x: -141, y: 248}
+      - {x: -142, y: 248}
+    - - {x: -129, y: 250}
+      - {x: -126, y: 251}
+      - {x: -130, y: 247}
+      - {x: -130, y: 248}
+    - - {x: -210, y: 251}
+      - {x: -206, y: 251}
+      - {x: -208, y: 249}
+      - {x: -208, y: 250}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
