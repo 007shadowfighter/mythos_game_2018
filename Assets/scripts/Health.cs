@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Health : MonoBehaviour {
+public class Health : MonoBehaviour
+{
 
     public const int maxHealth = 100;
     public int currentHealth = maxHealth;

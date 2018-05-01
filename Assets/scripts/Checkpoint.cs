@@ -2,20 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Checkpoint : MonoBehaviour {
-    public Vector3 respawnPoint;
-
-    void OnTriggerEnter2D(Collider2D other)
+public class Checkpoint : MonoBehaviour
+{
+    public Transform checkpoint;
+    GameObject player;
+    // Use this for initialization
+    void Start()
     {
-        if (other.tag == "fallDetector") {
-            transform.position = respawnPoint;
-            if (other.tag == "Checkpoint")
-            {
-                respawnPoint = other.transform.position;
-            }
+
+        player = GameObject.FindWithTag("Player");
+    }
+
+    // Update is called once per frame
+    void OnTriggerEnter(Collider plyr)
+    {
+        if (plyr.gameObject.tag == "Player")
+        {
+            player.transform.position = checkpoint.position;
+            player.transform.rotation = checkpoint.rotation;
         }
     }
 }
-        
-    
-

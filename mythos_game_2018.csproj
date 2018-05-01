@@ -439,7 +439,9 @@
     <Compile Include="Assets\Pixel Collection - Character\_Demo\Script\Player.cs" />
     <Compile Include="Assets\scripts\BGScroller.cs" />
     <Compile Include="Assets\scripts\camera_remote.cs" />
-    <Compile Include="Assets\scripts\Checkpoint.cs" />
+    <Compile Include="Assets\scripts\CheckPoint.cs" />
+    <Compile Include="Assets\scripts\CheckPoint1.cs" />
+    <Compile Include="Assets\scripts\CheckpointController.cs" />
     <Compile Include="Assets\scripts\EnemyAI.cs" />
     <Compile Include="Assets\scripts\EnemyDamage.cs" />
     <Compile Include="Assets\scripts\Health.cs" />
