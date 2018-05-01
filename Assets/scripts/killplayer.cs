@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class killplayer : MonoBehaviour {
+    public PlayerController gamePlayer;
 
     [SerializeField]
     Transform spawnPoint;
@@ -11,7 +12,7 @@ public class killplayer : MonoBehaviour {
     {
         if (col.transform.CompareTag("Player"))
         
-            col.transform.position = spawnPoint.position;
+            col.transform.position = gamePlayer.respawnPoint;
     }
 
 }

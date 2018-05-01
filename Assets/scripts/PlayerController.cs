@@ -10,13 +10,16 @@ public class PlayerController : MonoBehaviour
     //public float groundCheckRadius;
     //public LayerMask groundLayer;
     //private bool isTouchingGround;
-    //private Animator playerAnimation;
+    private Animator playerAnimation;
     public Vector3 respawnPoint;
+    //GameObject spawnPoint;
+   
+
     // Use this for initialization
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
-        //playerAnimation = GetComponent<Animator>();
+        playerAnimation = GetComponent<Animator>();
         respawnPoint = transform.position;
     }
 
@@ -28,6 +31,7 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log("hit fall detector!");
             transform.position = respawnPoint;
+            //transform.position = spawnPoint.transform.position;
         }
         if (other.tag == "CheckPoint")
         {
