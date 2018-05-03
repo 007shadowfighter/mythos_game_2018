@@ -11,14 +11,23 @@ namespace Panda.Examples.Move
 
         // variable to hold a reference to our SpriteRenderer component            
         private SpriteRenderer mySpriteRenderer;
+        private Vector2 startPoint;
+        private float destination;
+        private Rigidbody rb;
 
         // This function is called just one time by Unity the moment the game loads
         private void Awake()
         {
             // get a reference to the SpriteRenderer component on this gameObject
             mySpriteRenderer = GetComponent<SpriteRenderer>();
+            startPoint = transform.position;
+            rb = GetComponent<Rigidbody>();
         }
 
+        //void Update()
+        //{
+        //    transform.hasChanged = true;
+        //}
 
         /*
          * Move to the (x,y) position at the current speed.
@@ -26,6 +35,8 @@ namespace Panda.Examples.Move
         [Task]
         void MoveTo(float x, float y)
         {
+            Debug.Log("MoveTo called.");
+
             Vector3 destination = new Vector3(x, y, 0.0f);
             Vector3 delta = (destination - transform.position);
             Vector3 velocity = speed * delta.normalized;
@@ -48,16 +59,17 @@ namespace Panda.Examples.Move
 
         }
 
-        /*
-         * flip the character.
-         */
-        [Task]
+    /*
+     * flip the character.
+     */
+    [Task]
         void Flip(bool enable)
         {
+            Debug.Log("Flip called.");
             mySpriteRenderer.flipX = enable;
             Task.current.Succeed();
-        }   
-       
+        }
+
 
 
         // This structure is used to store data for rotation tweening.
@@ -79,12 +91,12 @@ namespace Panda.Examples.Move
 
             // The Task.isStarting property is true on the first tick of a task.
             // We used it to perform initialization.
-            if ( task.isStarting ) 
+            if (task.isStarting)
             {
                 // Compute tweeing data
                 rt.startTime = Time.time;
                 rt.startRotation = this.transform.localRotation;
-                rt.endRotation   = Quaternion.AngleAxis( angle, Vector3.forward)*transform.localRotation;
+                rt.endRotation = Quaternion.AngleAxis(angle, Vector3.forward) * transform.localRotation;
 
                 // Task.item is a placeholder attached to a Task.
                 // It is useful for storing any data used for the progression of a task.
@@ -101,7 +113,7 @@ namespace Panda.Examples.Move
 
 
             // Display the tweening progression withing the code viewer in the Inspector.
-            if( Task.isInspected )
+            if (Task.isInspected)
                 task.debugInfo = string.Format("t={0:0.00}", t);
 
             // Succeed the task when the tweening is complete.
@@ -114,6 +126,5 @@ namespace Panda.Examples.Move
 
         }
 
-
+    }   
     }
-}

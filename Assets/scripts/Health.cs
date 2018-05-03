@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
+    public PlayerController gamePlayer;
 
     public const int maxHealth = 100;
     public int currentHealth = maxHealth;
@@ -16,7 +17,10 @@ public class Health : MonoBehaviour
         {
             currentHealth = 0;
             Debug.Log("Dead!");
-            SceneManager.LoadScene("menu");
+            transform.position = gamePlayer.respawnPoint;
+            currentHealth = maxHealth;
+
+
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Collections;
 public class CheckpointController : MonoBehaviour
 {
     public Sprite redFlag;
-    public Sprite greenFlag;
+    public Sprite blueFlag;
     private SpriteRenderer checkpointSpriteRenderer;
     public bool checkpointReached;
     // Use this for initialization
@@ -21,7 +21,8 @@ public class CheckpointController : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            checkpointSpriteRenderer.sprite = greenFlag;
+            Debug.Log("Checkpoint triggered!");
+            checkpointSpriteRenderer.sprite = blueFlag;
             checkpointReached = true;
         }
     }

@@ -1,0 +1,10 @@
+tree("Root")
+	parallel
+		tree("Move")
+
+tree("Move")
+	sequence
+		MoveTo(68.0, 4.33)
+		Flip(false)
+		MoveTo(75.0, 4.33)
+		Flip(true)
