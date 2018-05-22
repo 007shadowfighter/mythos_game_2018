@@ -6,6 +6,8 @@ public class CheckpointController : MonoBehaviour
     public Sprite blueFlag;
     private SpriteRenderer checkpointSpriteRenderer;
     public bool checkpointReached;
+    public AudioSource checkpointSound;
+
     // Use this for initialization
     void Start()
     {
@@ -22,6 +24,7 @@ public class CheckpointController : MonoBehaviour
         if (other.tag == "Player")
         {
             Debug.Log("Checkpoint triggered!");
+            checkpointSound.Play();
             checkpointSpriteRenderer.sprite = blueFlag;
             checkpointReached = true;
         }

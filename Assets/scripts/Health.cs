@@ -9,6 +9,7 @@ public class Health : MonoBehaviour
 
     public const int maxHealth = 100;
     public int currentHealth = maxHealth;
+    public AudioSource deathSound;
 
     public void TakeDamage(int amount)
     {
@@ -17,6 +18,7 @@ public class Health : MonoBehaviour
         {
             currentHealth = 0;
             Debug.Log("Dead!");
+            deathSound.Play();
             transform.position = gamePlayer.respawnPoint;
             currentHealth = maxHealth;
 

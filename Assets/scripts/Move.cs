@@ -8,6 +8,9 @@ namespace Panda.Examples.Move
     {
 
         float speed = 2.0f; // current speed
+        static float t = 0.0f;
+        public float minimum = -10.0F;
+        public float maximum = 10.0F;
 
         // variable to hold a reference to our SpriteRenderer component            
         private SpriteRenderer mySpriteRenderer;
@@ -37,25 +40,47 @@ namespace Panda.Examples.Move
         {
             Debug.Log("MoveTo called.");
 
-            Vector3 destination = new Vector3(x, y, 0.0f);
-            Vector3 delta = (destination - transform.position);
-            Vector3 velocity = speed * delta.normalized;
 
-            transform.position = transform.position + velocity * Time.deltaTime;
 
-            Vector3 newDelta = (destination - transform.position);
-            float d = newDelta.magnitude;
+            // animate the position of the game object...
+            transform.position = new Vector3(Mathf.Lerp(x, y, t), 0, 0);
 
-            if (Task.isInspected)
-                Task.current.debugInfo = string.Format("d={0:0.000}", d);
 
-            if (Vector3.Dot(delta, newDelta) <= 0.0f || d < 1e-3)
-            {
-                transform.position = destination;
-                Task.current.Succeed();
-                d = 0.0f;
-                Task.current.debugInfo = "d=0.000";
-            }
+            // .. and increate the t interpolater
+            //t += 0.5f * Time.deltaTime;
+
+            // now check if the interpolator has reached 1.0
+            // and swap maximum and minimum so game object moves
+            // in the opposite direction.
+            //if (t > 1.0f)
+            //{
+            //    float temp = x;
+            //    x = y;
+            //    y = temp;
+            //    t = 0.0f;
+            //}
+
+            Task.current.Succeed();
+
+            //Vector3 destination = new Vector3(x, y, 0.0f);
+            //Vector3 delta = (destination - transform.position);
+            //Vector3 velocity = speed * delta.normalized;
+
+            //transform.position = transform.position + velocity * Time.deltaTime;
+
+            //Vector3 newDelta = (destination - transform.position);
+            //float d = newDelta.magnitude;
+
+            //if (Task.isInspected)
+            //    Task.current.debugInfo = string.Format("d={0:0.000}", d);
+
+            //if (Vector3.Dot(delta, newDelta) <= 0.0f || d < 1e-3)
+            //{
+            //    transform.position = destination;
+            //    Task.current.Succeed();
+            //    d = 0.0f;
+            //    Task.current.debugInfo = "d=0.000";
+            //}
 
         }
 

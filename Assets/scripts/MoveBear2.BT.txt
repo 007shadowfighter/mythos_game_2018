@@ -4,7 +4,7 @@ tree("Root")
 
 tree("Move")
 	sequence
-		MoveTo(68.0, 4.33)
+		MoveTo(68.0, 60.0)
 		Flip(false)
-		MoveTo(75.0, 4.33)
+		MoveTo(60.0, 68.0)
 		Flip(true)
