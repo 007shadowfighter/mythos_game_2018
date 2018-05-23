@@ -6,6 +6,7 @@ public class Timer : MonoBehaviour
 {
     public int timeLeft = 5;
     public Text countdownText;
+	private const string label = "The <#0050FF>count is: </color>{0:2}";
 
     // Use this for initialization
     void Start()
