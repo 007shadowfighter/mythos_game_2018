@@ -5,14 +5,12 @@ namespace TMPro
 {
 	public class CountdownTimer : MonoBehaviour
 	{
-
+		
 		private TextMeshPro m_textMeshPro;
 		private TMP_FontAsset m_FontAsset;
-
 		private string label = "The <#0050FF>count is: </color>{0:2}";
 		private float m_frame;
 		public int endTime;
-
 		void Start()
 		{
 			// get new TextMesh Pro Component
@@ -21,16 +19,15 @@ namespace TMPro
 				m_textMeshPro.autoSizeTextContainer = true;
 
 			// Load the Font Asset to be used.
-			//m_FontAsset = Resources.Load("Fonts & Materials/LiberationSans SDF", typeof(TMP_FontAsset)) as TMP_FontAsset;
-			//m_textMeshPro.font = m_FontAsset;
+			m_FontAsset = Resources.Load("Fonts & Materials/LiberationSans SDF", typeof(TMP_FontAsset)) as TMP_FontAsset;
+			m_textMeshPro.font = m_FontAsset;
 
 			// Assign Material to TextMesh Pro Component
 			//m_textMeshPro.fontSharedMaterial = Resources.Load("Fonts & Materials/LiberationSans SDF - Bevel", typeof(Material)) as Material;
 			//m_textMeshPro.fontSharedMaterial.EnableKeyword("BEVEL_ON");
 
 			// Set various font settings.
-			m_textMeshPro.fontSize = 2;
-
+			m_textMeshPro.fontSize = 15;
 			m_textMeshPro.alignment = TextAlignmentOptions.Center;
 
 			//m_textMeshPro.anchorDampening = true; // Has been deprecated but under consideration for re-implementation.
@@ -41,8 +38,7 @@ namespace TMPro
 
 			//m_textMeshPro.enableCulling = true;
 			m_textMeshPro.enableWordWrapping = false; 
-
-			//textMeshPro.fontColor = new Color32(255, 255, 255, 255);
+			//textMeshPro.fontColor = new Color32 (255, 255, 255, 255);
 		}
 
 
@@ -50,7 +46,6 @@ namespace TMPro
 		{
 			
 			m_frame += 1 * Time.deltaTime;
-
 			var timeLeft = endTime - (int)Time.time;
 			if (timeLeft < 0) timeLeft = 0;
 			label = timeLeft.ToString();
