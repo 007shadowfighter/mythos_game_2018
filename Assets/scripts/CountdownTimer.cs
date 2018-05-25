@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 namespace TMPro
 {
@@ -11,6 +12,9 @@ namespace TMPro
 		private string label = "The <#0050FF>count is: </color>{0:2}";
 		private float m_frame;
 		public int endTime;
+		private string timesup = "timesup"; //scene to go to when time is out
+
+
 		void Start()
 		{
 			// get new TextMesh Pro Component
@@ -38,7 +42,7 @@ namespace TMPro
 
 			//m_textMeshPro.enableCulling = true;
 			m_textMeshPro.enableWordWrapping = false; 
-			//textMeshPro.fontColor = new Color32 (255, 255, 255, 255);
+			m_textMeshPro.color = new Color32 (255, 255, 255, 255);
 		}
 
 
@@ -47,7 +51,31 @@ namespace TMPro
 			
 			m_frame += 1 * Time.deltaTime;
 			var timeLeft = endTime - (int)Time.time;
-			if (timeLeft < 0) timeLeft = 0;
+			if (timeLeft < 11) 
+			{
+				Debug.Log("Times up!");
+				// make text red etc
+				//m_textMeshPro.fontSize = 25;
+				m_textMeshPro.color = new Color32 (192, 0, 0, 255);
+
+			}
+
+			if (timeLeft < 31) 
+			{
+				Debug.Log("Times up!");
+				// make text red etc
+				m_textMeshPro.color = new Color32 (192, 192, 0, 255);
+			}
+
+
+			if (timeLeft < 0) 
+			{
+				timeLeft = 0;
+				Debug.Log("Times up!");
+				m_textMeshPro.SetText(label, timeLeft); //<<< show Time's UP!! on screen
+				SceneManager.LoadScene(timesup);
+			}
+
 			label = timeLeft.ToString();
 			m_textMeshPro.SetText(label, timeLeft);
 		}

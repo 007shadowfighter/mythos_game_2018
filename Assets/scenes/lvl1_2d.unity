@@ -436,7 +436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c18c8c8662a94e25bb91c7f4fc4cbb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  endTime: 10
+  endTime: 40
 --- !u!1 &131876917
 GameObject:
   m_ObjectHideFlags: 0
@@ -721,7 +721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c18c8c8662a94e25bb91c7f4fc4cbb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  endTime: 10
+  endTime: 40
 --- !u!1 &266361518
 GameObject:
   m_ObjectHideFlags: 0
