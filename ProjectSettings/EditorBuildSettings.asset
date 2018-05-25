@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/scenes/menu.unity
     guid: e0cdf105827403248b6fc968ee603e9b
   - enabled: 1
+    path: Assets/scenes/endscreen.unity
+    guid: 42bf2e611265213489de91d95a44c1a6
+  - enabled: 1
     path: Assets/scenes/lvl1_2d.unity
     guid: 2a1c939a272e7464c974927fbbcaef79
   - enabled: 1
     path: Assets/scenes/lvl2_2d.unity
     guid: 63c9bd6e98f0f934584b7a3ec54d3bf2
-  - enabled: 1
-    path: Assets/scenes/endscreen.unity
-    guid: 42bf2e611265213489de91d95a44c1a6
