@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/scenes/menu.unity
     guid: e0cdf105827403248b6fc968ee603e9b
   - enabled: 1
+    path: Assets/scenes/timesup.unity
+    guid: 650b74d0fc4214f9798fdd52a778d869
+  - enabled: 1
     path: Assets/scenes/lvl1_2d.unity
     guid: 2a1c939a272e7464c974927fbbcaef79
   - enabled: 1
