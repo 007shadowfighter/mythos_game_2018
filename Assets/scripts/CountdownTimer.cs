@@ -11,16 +11,17 @@ namespace TMPro
 		private TMP_FontAsset m_FontAsset;
 		private string label = "The <#0050FF>count is: </color>{0:2}";
 		private float m_frame;
-		public int endTime;
+        public int endTime;
 		private string timesup = "timesup"; //scene to go to when time is out
 
 
 		void Start()
 		{
-			// get new TextMesh Pro Component
-			m_textMeshPro = gameObject.AddComponent<TextMeshPro>();
+            endTime = 25;
+            // get new TextMesh Pro Component
+            m_textMeshPro = gameObject.AddComponent<TextMeshPro>();
 
-				m_textMeshPro.autoSizeTextContainer = true;
+			m_textMeshPro.autoSizeTextContainer = true;
 
 			// Load the Font Asset to be used.
 			m_FontAsset = Resources.Load("Fonts & Materials/LiberationSans SDF", typeof(TMP_FontAsset)) as TMP_FontAsset;
@@ -50,22 +51,22 @@ namespace TMPro
 		{
 			
 			m_frame += 1 * Time.deltaTime;
-			var timeLeft = endTime - (int)Time.time;
-			if (timeLeft < 11) 
-			{
-				Debug.Log("Times up!");
-				// make text red etc
-				//m_textMeshPro.fontSize = 25;
-				m_textMeshPro.color = new Color32 (192, 0, 0, 255);
+			var timeLeft = endTime - (int)Time.timeSinceLevelLoad;
 
-			}
+            if (timeLeft < 31)
+            {
+                Debug.Log("Times up!");
+                // make text red etc
+                m_textMeshPro.color = new Color32(192, 192, 0, 255);
+            }
 
-			if (timeLeft < 31) 
-			{
-				Debug.Log("Times up!");
-				// make text red etc
-				m_textMeshPro.color = new Color32 (192, 192, 0, 255);
-			}
+            if (timeLeft < 11)
+            {
+                Debug.Log("Times up!");
+                // make text red etc
+                //m_textMeshPro.fontSize = 25;
+                m_textMeshPro.color = new Color32(192, 0, 0, 255);
+            }
 
 
 			if (timeLeft < 0) 
@@ -73,12 +74,13 @@ namespace TMPro
 				timeLeft = 0;
 				Debug.Log("Times up!");
 				m_textMeshPro.SetText(label, timeLeft); //<<< show Time's UP!! on screen
-				SceneManager.LoadScene(timesup);
-			}
-
-			label = timeLeft.ToString();
+                SceneManager.LoadScene(timesup);
+                timeLeft = endTime;
+            }
+            label = timeLeft.ToString();
 			m_textMeshPro.SetText(label, timeLeft);
-		}
+            
+        }
 
 	}
 }
