@@ -17,7 +17,7 @@ namespace TMPro
 
 		void Start()
 		{
-            endTime = 25;
+            endTime = 200;
             // get new TextMesh Pro Component
             m_textMeshPro = gameObject.AddComponent<TextMeshPro>();
 
@@ -75,7 +75,6 @@ namespace TMPro
 				Debug.Log("Times up!");
 				m_textMeshPro.SetText(label, timeLeft); //<<< show Time's UP!! on screen
                 SceneManager.LoadScene(timesup);
-                timeLeft = endTime;
             }
             label = timeLeft.ToString();
 			m_textMeshPro.SetText(label, timeLeft);
